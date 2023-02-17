@@ -1,7 +1,7 @@
 databases:
   - name: rails-react-biketour
-    databaseName: rails-react-biketour
-    user: rails-react-biketour
+    databaseName: racers_api_production
+    user: bryangoertz
 
 services:
   - type: web
