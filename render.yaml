@@ -14,5 +14,5 @@ services:
         fromDatabase:
           name: rails-react-biketour
           property: connectionString
-      - key: RAILS_MASTER_KEY
+      # - key: RAILS_MASTER_KEY
         sync: false
